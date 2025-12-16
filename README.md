@@ -15,7 +15,7 @@ I’m a developer with a strong interest in **automation**, **tooling**, and **s
 
 ## Notice
 
-All repositories have been archived until **December 2025** while I refactor and modernize older projects.
+All repositories have been archived until **December 2025** while I refactor and modernize older projects with most of them going into **private** mode. If you still need access for the private projects, contanct me on **Discord**.
 
 Revisiting them with more experience highlighted several issues-inefficiencies, duplicated logic, and, in some cases, incomplete or broken implementations. The goal of this cleanup is to bring everything up to my current standards for structure, performance, and maintainability.
 
