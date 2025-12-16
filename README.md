@@ -1,26 +1,31 @@
-# About me
-- 👋 Hi, I’m @Feral
-- 👀 I’m interested in games automation, bots, scripts and more.
-- 🔭 I’m currently working on my Steam Game: Heroes of the Fallen Kingdom
-- 🌱 I’m learning Computer Engineering
-- ⚡ Fun fact: I spend more time creating tools to use, than fixing the actual problem
-- 💞️ I’m looking to collaborate on anything 
-- 📫 How to reach me:
-        Discord: ~~Rioter Neeko#0646~~ `rioterneeko`
+## About Me
 
-# Notice
+Hi, I’m **Feral** 👋  
+I’m a developer with a strong interest in **automation**, **tooling**, and **systems programming**, particularly around games and networking.
 
-I've archived all my repositories until **November 2024** as I work on updating the older projects.  
-Revisiting them with my current knowledge has been an eye-opener—they were inefficient, filled with duplicate code, and sometimes outright broken.
+- 👀 **Interests:** Game automation, bots, scripting, and data-driven tools  
+- 🔭 **Current focus:** Maintaining **Feral Engine**, a custom game engine, and building a couple of games with it as a hobby  
+- 🌱 **Education:** Computer Science & Electrical Engineering  
+- ⚡ **Fun fact:** I often spend more time building tools to solve problems than fixing the problems directly  
+- 💞️ **Collaboration:** Open to collaborating on a wide range of projects  
+- 📫 **Contact:**  
+  - **Discord:** `rioterneeko`
 
-Once I've revamped these projects, I'll also be adding my recent work, including:  
-- My **Steam game**, made with my own python engine and logic
-- Some **Networking** projects, peer to peer or dedicated server
-- A **Python Steamworks module that supports multiplayer**  
-- Various **advanced tools**, for analyzing various data including game automation
-- A few **unique bots**, mostly for discord and a few for games.
+---
 
-If you're curious about these or want early access, feel free to contact me on **Discord**!
+## Notice
 
-<!--
-**BP-Feral/BP-Feral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+All repositories have been archived until **December 2025** while I refactor and modernize older projects.
+
+Revisiting them with more experience highlighted several issues-inefficiencies, duplicated logic, and, in some cases, incomplete or broken implementations. The goal of this cleanup is to bring everything up to my current standards for structure, performance, and maintainability.
+
+Once this process is complete, I’ll be publishing updated versions along with newer work, including:
+
+- **Feral Engine**, my custom game engine (actively maintained)  
+- A couple of **games built using Feral Engine**  
+- **Networking projects**, including peer-to-peer and dedicated server architectures  
+- A **Python Steamworks module with multiplayer support**  
+- **Advanced tooling** for data analysis and game automation  
+- Several **custom bots**, primarily for Discord and select game-related use cases  
+
+If you’re interested in any of these projects or would like early access, feel free to reach out on **Discord**.
